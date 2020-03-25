@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "datatables.net-responsive-dt@2.2.3",
+      "/Users/mlumaad/Documents/themeforest/dashforge/package/1.1"
+    ]
+  ],
+  "_from": "datatables.net-responsive-dt@2.2.3",
+  "_id": "datatables.net-responsive-dt@2.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-NGxuii+3sWGG150AWmQ5NYCrTaFKUHo6GeizBR8o2Uuy68PnuNrSO27hyLvOYNLHQ9kALT66f/gTaBc2TdznFA==",
+  "_location": "/datatables.net-responsive-dt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "datatables.net-responsive-dt@2.2.3",
+    "name": "datatables.net-responsive-dt",
+    "escapedName": "datatables.net-responsive-dt",
+    "rawSpec": "2.2.3",
+    "saveSpec": null,
+    "fetchSpec": "2.2.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/datatables.net-responsive-dt/-/datatables.net-responsive-dt-2.2.3.tgz",
+  "_spec": "2.2.3",
+  "_where": "/Users/mlumaad/Documents/themeforest/dashforge/package/1.1",
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "bugs": {
+    "url": "https://datatables.net/forums"
+  },
+  "dependencies": {
+    "datatables.net-dt": "^1.10.15",
+    "datatables.net-responsive": "2.2.3",
+    "jquery": ">=1.7"
+  },
+  "description": "Responsive for DataTables ",
+  "files": [
+    "css/**/*.css",
+    "js/**/*.js"
+  ],
+  "homepage": "https://datatables.net",
+  "keywords": [
+    "responsive",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "license": "MIT",
+  "main": "js/responsive.dataTables.js",
+  "name": "datatables.net-responsive-dt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Responsive-DataTables.git"
+  },
+  "style": "css/responsive.dataTables.css",
+  "version": "2.2.3"
+}
